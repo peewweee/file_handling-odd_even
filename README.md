@@ -7,7 +7,7 @@
 >2. Input 20 integers to the numbers.txt file (Try 1-20)
 >3. Create another text file named 'even.txt' and another named 'odd.txt'
 >4. With your IDE, run the program.
->5. The program will display the even numbers to the even.txt and the odd numbers to the odd.txt
+>5. The program will display the even numbers to the even.txt file and the odd numbers to the odd.txt file
 
 **The program used:**
 >- for, if, and else statements
