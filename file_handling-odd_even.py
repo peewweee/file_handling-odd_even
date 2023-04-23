@@ -11,4 +11,6 @@ with open("numbers.txt") as input_file, open("even.txt", "a") as output_even, op
             # append even numbers to even.txt
             output_even.write(str(int_line) + "\n")
         # if odd
+        else:
             # append odd numbers to odd.txt
+            output_odd.write(str(int_line) + "\n")
