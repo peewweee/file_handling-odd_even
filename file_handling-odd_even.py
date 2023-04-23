@@ -8,7 +8,7 @@ with open("numbers.txt") as input_file, open("even.txt", "a") as output_even, op
         int_line = int(line)
         # if even
         if int_line % 2 == 0:
-            print(int_line)
             # append even numbers to even.txt
+            output_even.write(str(int_line) + "\n")
         # if odd
             # append odd numbers to odd.txt
