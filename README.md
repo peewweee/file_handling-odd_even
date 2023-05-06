@@ -12,3 +12,6 @@
 **The program used:**
 >- for, if, and else statements
 >- file handling (read, append)
+
+**Link to the demo video**
+>https://drive.google.com/file/d/1-WF3MYuT-BmYiM2BCa9VMFktIvVmQ6SY/view?usp=sharing
